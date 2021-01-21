@@ -146,7 +146,7 @@ Qin Li - [Mathematics](http://www.math.wisc.edu/~qinli/index.html) - qinli at ma
 Xiao Hou - [Mathematics](https://www.math.wisc.edu/grad-students) - xhou9	at wisc.edu  
 Yuhao Kang - [@YuhaoKang](https://twitter.com/YuhaoKang) - yuhao.kang at wisc.edu  
 
-Project Link: [https://github.com/GeoDS/COVID19USFlows](https://github.com/GeoDS/COVID19USFlows)  
+Project Link: [https://github.com/GeoDS/IntraCounty-Mobility-SEIR](https://github.com/GeoDS/IntraCounty-Mobility-SEIR)  
 
 
 
