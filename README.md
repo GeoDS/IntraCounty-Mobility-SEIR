@@ -143,7 +143,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Song Gao - [@gissong](https://twitter.com/gissong) - song.gao at wisc.edu  
 Qin Li - [Mathematics](http://www.math.wisc.edu/~qinli/index.html) - qinli at math.wisc.edu 
-Xiao Hou - [Mathematics](https://www.math.wisc.edu/grad-students) - xhou9	at wisc.edu  
+Xiao Hou - [Mathematics](https://www.math.wisc.edu/grad-students) - xhou9 at wisc.edu  
 Yuhao Kang - [@YuhaoKang](https://twitter.com/YuhaoKang) - yuhao.kang at wisc.edu  
 
 Project Link: [https://github.com/GeoDS/IntraCounty-Mobility-SEIR](https://github.com/GeoDS/IntraCounty-Mobility-SEIR)  
