@@ -26,7 +26,7 @@ University of Wisconsin-Madison
 
 <!-- Reference -->
 ## Reference
-If you use this dataset and code in your research or applications, please refer this source:
+If you use this dataset and code in your research or applications, please refer to this source:
 
 Hou, X., Gao, S., Li, Q., Kang, Y., Chen, N., Chen, K., Rao, J., Ellenberg, J.S. and Patz, J.A. (2020). Intra-county modeling of COVID-19 infection with human mobility: assessing spatial heterogeneity with business traffic, age and race. preprint at medRxiv. https://www.medrxiv.org/content/10.1101/2020.10.04.20206763v1
 
