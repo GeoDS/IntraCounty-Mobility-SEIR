@@ -141,10 +141,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Song Gao - [@gissong](https://twitter.com/gissong) - song.gao at wisc.edu  
-Qin Li - [Mathematics](http://www.math.wisc.edu/~qinli/index.html) - qinli at math.wisc.edu 
-Xiao Hou - [Mathematics](https://www.math.wisc.edu/grad-students) - xhou9 at wisc.edu  
-Yuhao Kang - [@YuhaoKang](https://twitter.com/YuhaoKang) - yuhao.kang at wisc.edu  
+Song Gao - [@gissong](https://twitter.com/gissong) - song.gao at wisc.edu  </br>
+Qin Li - [Mathematics](http://www.math.wisc.edu/~qinli/index.html) - qinli at math.wisc.edu </br>
+Xiao Hou - [Mathematics](https://www.math.wisc.edu/grad-students) - xhou9 at wisc.edu  </br>
+Yuhao Kang - [@YuhaoKang](https://twitter.com/YuhaoKang) - yuhao.kang at wisc.edu  </br>
 
 Project Link: [https://github.com/GeoDS/IntraCounty-Mobility-SEIR](https://github.com/GeoDS/IntraCounty-Mobility-SEIR)  
 
