@@ -20,19 +20,18 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Citation](#citation)
+* [Reference](#reference)
 * [About the Project](#about-the-project)
 * [File Descriptions](#file-descriptions)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-<!-- Citation -->
-## Citation
-If you use this dataset in your research or applications, please cite this source:
+<!-- Reference -->
+## Reference
+If you use this dataset and code in your research or applications, please refer this source:
 
-
-Hou, X., Gao, S., Li, Q., Kang, Y., Chen, N., Chen, K., Rao, J., Ellenberg, J.S. and Patz, J.A., 2020. Intra-county modeling of COVID-19 infection with human mobility: assessing spatial heterogeneity with business traffic, age and race. medRxiv.
+Hou, X., Gao, S., Li, Q., Kang, Y., Chen, N., Chen, K., Rao, J., Ellenberg, J.S. and Patz, J.A. (2020). Intra-county modeling of COVID-19 infection with human mobility: assessing spatial heterogeneity with business traffic, age and race. preprint at medRxiv. https://www.medrxiv.org/content/10.1101/2020.10.04.20206763v1
 
 ```
 @article{hou2020intra,
@@ -146,8 +145,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Song Gao - [@gissong](https://twitter.com/gissong) - song.gao at wisc.edu  
-Qin Li - [@gissong](https://twitter.com/gissong) - song.gao at wisc.edu  
-Xiao Hou - [@gissong](https://twitter.com/gissong) - song.gao at wisc.edu  
+Qin Li - [Mathematics](http://www.math.wisc.edu/~qinli/index.html) - qinli at math.wisc.edu 
+Xiao Hou - [Mathematics](https://www.math.wisc.edu/grad-students) - xhou9	at wisc.edu  
 Yuhao Kang - [@YuhaoKang](https://twitter.com/YuhaoKang) - yuhao.kang at wisc.edu  
 
 Project Link: [https://github.com/GeoDS/COVID19USFlows](https://github.com/GeoDS/COVID19USFlows)  
