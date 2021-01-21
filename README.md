@@ -3,17 +3,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://geods.geography.wisc.edu/">
-    <img src="images/geods_safegraph_nsf_logo.jpg" alt="Logo" width="400">
+  <!--<a href="https://geods.geography.wisc.edu/">
+    <img src="images/geods_safegraph_nsf_logo.jpg" alt="Logo" width="400">-->
 
   <h2 align="center">IntraCounty-Mobility-SEIR</h2>
 
   <p align="center">
-    GeoDS Lab, Department of Geography, University of Wisconsin-Madison.
-    <br />
+    University of Wisconsin-Madison.
+    <!--<br />
     <a href="https://geods.geography.wisc.edu/covid-19-physical-distancing">Website</a>
     ·
-    <a href="http://geods.geography.wisc.edu/covid19/King_WA.html">View Demo</a>
+    <a href="http://geods.geography.wisc.edu/covid19/King_WA.html">View Demo</a>-->
   </p>
 </p>
 
@@ -116,9 +116,9 @@ project
         |-- weekly_country2ct_2020_03_09.csv
         `-- ...
 ```
---!>
+-->
 
-## File Descriptions
+## File Descriptions  
 A description of all files in the repository is shown below:  
 data_0411_0814.mat: Data needed to run the model for Dane County. (The codes of cleaning the data are provided in the folder ‘data_preparation’)
 
