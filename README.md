@@ -9,11 +9,11 @@
   <h2 align="center">IntraCounty-Mobility-SEIR</h2>
 
   <p align="center">
-    University of Wisconsin-Madison.
-    <!--<br />
-    <a href="https://geods.geography.wisc.edu/covid-19-physical-distancing">Website</a>
-    ·
-    <a href="http://geods.geography.wisc.edu/covid19/King_WA.html">View Demo</a>-->
+\affil[a]{Department of Mathematics, University of Wisconsin-Madison}
+\affil[b]{Geospatial Data Science Lab, Department of Geography, University of Wisconsin-Madison}
+\affil[c]{Department of Life Sciences Communication, University of Wisconsin-Madison}
+\affil[d]{School of Medicine and Public Health, University of Wisconsin-Madison}
+    University of Wisconsin-Madison
   </p>
 </p>
 
