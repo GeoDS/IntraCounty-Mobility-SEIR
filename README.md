@@ -119,9 +119,9 @@ project
 
 ## File Descriptions  
 A description of all files in the repository is shown below:  
-data_0411_0814.mat: Data needed to run the model for Dane County. (The codes of cleaning the data are provided in the folder ‘data_preparation’)
+data_0411_0814.mat: The COVID-19 confirmed cases data needed to run the model for Dane County, WI, provided by the [Wisconsin Department of Health Services](https://data.dhsgis.wi.gov/datasets/covid-19-historical-data-by-census-tract/data?orderBy=GEOID). (The codes of cleaning the data are provided in the folder ‘data_preparation’)
 
-data_0311_0812.mat: Data needed to run the model for Milwaukee County. (The codes of cleaning the data are provided in the folder ‘data_preparation’)
+data_0311_0812.mat: The COVID-19 confirmed cases data needed to run the model for Milwaukee County, WI, provided by the [Wisconsin Department of Health Services](https://data.dhsgis.wi.gov/datasets/covid-19-historical-data-by-census-tract/data?orderBy=GEOID). (The codes of cleaning the data are provided in the folder ‘data_preparation’)
 
 para_stochastic.m: A fixed-point iteration is used to determine the coefficients of the OU process.
 
