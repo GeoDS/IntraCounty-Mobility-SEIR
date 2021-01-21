@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <!--<a href="https://geods.geography.wisc.edu/">
-    <img src="images/geods_safegraph_nsf_logo.jpg" alt="Logo" width="400">-->
+  --<a href="https://geods.geography.wisc.edu/">
+    <img src="https://github.com/GeoDS/COVID19USFlows/raw/master/images/geods_safegraph_nsf_logo.jpg" alt="Logo" width="400">
 
   <h2 align="center">IntraCounty-Mobility-SEIR</h2>
 
