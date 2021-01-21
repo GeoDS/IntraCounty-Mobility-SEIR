@@ -9,11 +9,8 @@
   <h2 align="center">IntraCounty-Mobility-SEIR</h2>
 
   <p align="center">
-\affil[a]{Department of Mathematics, University of Wisconsin-Madison}
-\affil[b]{Geospatial Data Science Lab, Department of Geography, University of Wisconsin-Madison}
-\affil[c]{Department of Life Sciences Communication, University of Wisconsin-Madison}
-\affil[d]{School of Medicine and Public Health, University of Wisconsin-Madison}
-    University of Wisconsin-Madison
+Department of Mathematics, Department of Geography, Department of Life Sciences Communication, and School of Medicine and Public Health, 
+University of Wisconsin-Madison
   </p>
 </p>
 
