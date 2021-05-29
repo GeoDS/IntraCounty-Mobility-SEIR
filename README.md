@@ -28,15 +28,18 @@ University of Wisconsin-Madison
 ## Reference
 If you use this dataset and code in your research or applications, please refer to this source:
 
-Hou, X., Gao, S., Li, Q., Kang, Y., Chen, N., Chen, K., Rao, J., Ellenberg, J.S. and Patz, J.A. (2020). Intra-county modeling of COVID-19 infection with human mobility: assessing spatial heterogeneity with business traffic, age and race. preprint at medRxiv. https://www.medrxiv.org/content/10.1101/2020.10.04.20206763v1
+Hou, X., Gao, S., Li, Q., Kang, Y., Chen, N., Chen, K., Rao, J., Ellenberg, J.S. and Patz, J.A. (2021). Intracounty modeling of COVID-19 infection with human mobility: assessing spatial heterogeneity with business traffic, age and race. Proceedings of the National Academy of Sciences Jun 2021, 118 (24) e2020524118; DOI: 10.1073/pnas.2020524118
 
 ```
 @article{hou2020intra,
   title={Intra-county modeling of COVID-19 infection with human mobility: assessing spatial heterogeneity with business traffic, age and race},
   author={Hou, Xiao and Gao, Song and Li, Qin and Kang, Yuhao and Chen, Nan and Chen, Kaiping and Rao, Jinmeng and Ellenberg, Jordan S and Patz, Jonathan A},
-  journal={medRxiv},
-  year={2020},
-  publisher={Cold Spring Harbor Laboratory Press}
+  journal={Proceedings of the National Academy of Sciences},
+  year={2021},
+  volume={118},
+  number={24},
+  page={e2020524118},
+  publisher={National Academy of Sciences}
 }
 ```
 
