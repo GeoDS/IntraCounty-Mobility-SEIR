@@ -38,7 +38,7 @@ Hou, X., Gao, S., Li, Q., Kang, Y., Chen, N., Chen, K., Rao, J., Ellenberg, J.S.
   year={2021},
   volume={118},
   number={24},
-  page={e2020524118},
+  pages={e2020524118},
   publisher={National Academy of Sciences}
 }
 ```
