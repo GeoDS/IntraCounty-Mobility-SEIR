@@ -51,7 +51,7 @@ pop_density = N./area;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % traffic matrix
 n_tr = zeros(n_clusters,n_clusters,n_days_traffic);
-ct_code = readmatrix("infection_cases/infection_0311_0812.csv", 'range', 'A2:A297');
+ct_code = readmatrix("mke_infection_0311_0812.csv", 'range', 'A2:A297');
 n_tr_diag = zeros(n_clusters,n_days_traffic);
 
 
