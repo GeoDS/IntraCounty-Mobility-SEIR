@@ -1,4 +1,4 @@
-IR_data = readtable("infection_cases/infection_0311_0812.csv",'ReadRowNames',true,'ReadVariableNames',true);
+IR_data = readtable("mke_infection_0311_0812.csv",'ReadRowNames',true,'ReadVariableNames',true);
 
 pop_data = readtable('mke_race_ct.csv','ReadRowNames',true,'ReadVariableNames',true);
 pop_density_data = readtable('mke_ct_shp.csv','ReadRowNames',true,'ReadVariableNames',true);
