@@ -1,11 +1,11 @@
 IR_data = readtable("infection_cases/infection_0311_0812.csv",'ReadRowNames',true,'ReadVariableNames',true);
 
-pop_data = readtable('socioeconomic/mke_race_ct.csv','ReadRowNames',true,'ReadVariableNames',true);
-pop_density_data = readtable('socioeconomic/mke_ct_shp.csv','ReadRowNames',true,'ReadVariableNames',true);
+pop_data = readtable('mke_race_ct.csv','ReadRowNames',true,'ReadVariableNames',true);
+pop_density_data = readtable('mke_ct_shp.csv','ReadRowNames',true,'ReadVariableNames',true);
 pop_density_data = pop_density_data(:,6);
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-clusters = readtable("flow_ct_weekly2/clustering_weekly_03_02.csv",'ReadVariableNames',true, 'ReadRowNames',true);
+clusters = readtable("mke_clustering_weekly_03_02.csv",'ReadVariableNames',true, 'ReadRowNames',true);
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clusters = table2array(clusters);
@@ -57,15 +57,15 @@ n_tr_diag = zeros(n_clusters,n_days_traffic);
 
 names_days = ["01";"02";"03";"04";"05";"06";"07";"08";"09"];
 names_days = [names_days;string((10:31)')];
-march = strcat("flow_ct_daily/daily_ct2ct_03_",names_days,".csv");
+march = strcat("./flow/daily_ct2ct_03_",names_days,".csv");
 march  =  march(11:end);
-april = strcat("flow_ct_daily/daily_ct2ct_04_",names_days,".csv");
+april = strcat("./flow/daily_ct2ct_04_",names_days,".csv");
 april  =  april(1:30);
-may = strcat("flow_ct_daily/daily_ct2ct_05_",names_days,".csv");
-june = strcat("flow_ct_daily/daily_ct2ct_06_",names_days,".csv");
+may = strcat("./flow/daily_ct2ct_05_",names_days,".csv");
+june = strcat("./flow/daily_ct2ct_06_",names_days,".csv");
 june = june(1:30);
-july = strcat("flow_ct_daily/daily_ct2ct_07_",names_days,".csv");
-august = strcat("flow_ct_daily/daily_ct2ct_08_",names_days,".csv");
+july = strcat("./flow/daily_ct2ct_07_",names_days,".csv");
+august = strcat("./flow/daily_ct2ct_08_",names_days,".csv");
 august = august(1:8);
 names_days = [march;april;may;june;july;august];
 
