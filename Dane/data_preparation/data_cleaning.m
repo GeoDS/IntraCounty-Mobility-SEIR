@@ -1,11 +1,11 @@
-IR_data = readtable("infection_0411_0814.csv",'ReadRowNames',true,'ReadVariableNames',true);
-pop_data = readtable('ct_pop_density.csv','ReadRowNames',true,'ReadVariableNames',true);
+IR_data = readtable("dane_infection_0411_0814.csv",'ReadRowNames',true,'ReadVariableNames',true);
+pop_data = readtable('dane_ct_pop_density.csv','ReadRowNames',true,'ReadVariableNames',true);
 pop_data = pop_data(:,2);
 area_data = readtable('dane_ct_shp.csv','ReadRowNames',true,'ReadVariableNames',true);
 area_data = area_data(:,6);
 
 %%%%%%%%%%%%%%%%%%%%%%
-clusters = readtable("clustering_weekly_03_02.csv",'ReadVariableNames',true, 'ReadRowNames',true);
+clusters = readtable("dane_clustering_weekly_03_02.csv",'ReadVariableNames',true, 'ReadRowNames',true);
 clusters = clusters(:,2);
 %%%%%%%%%%%%%%%%%%%%%%%
 
@@ -43,19 +43,19 @@ pop_density = N./area;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % traffic matrix
 n_tr = zeros(n_clusters,n_clusters,n_days_traffic);
-ct_code = readmatrix("infection_0411_0814.csv", 'range', 'A2:A106');
+ct_code = readmatrix("dane_infection_0411_0814.csv", 'range', 'A2:A106');
 n_tr_diag = zeros(n_clusters,n_days_traffic);
 
 
 names_days = ["01";"02";"03";"04";"05";"06";"07";"08";"09"];
 names_days = [names_days;string((10:31)')];
-april = strcat("flow_ct_daily/daily_ct2ct_04_",names_days,".csv");
+april = strcat("./flow/daily_ct2ct_04_",names_days,".csv");
 april  =  april(11:30);
-may = strcat("flow_ct_daily/daily_ct2ct_05_",names_days,".csv");
-june = strcat("flow_ct_daily/daily_ct2ct_06_",names_days,".csv");
+may = strcat("./flow/daily_ct2ct_05_",names_days,".csv");
+june = strcat("./flow/daily_ct2ct_06_",names_days,".csv");
 june = june(1:30);
-july = strcat("flow_ct_daily/daily_ct2ct_07_",names_days,".csv");
-august = strcat("flow_ct_daily/daily_ct2ct_08_",names_days,".csv");
+july = strcat("./flow/daily_ct2ct_07_",names_days,".csv");
+august = strcat("./flow/daily_ct2ct_08_",names_days,".csv");
 august = august(1:7);
 names_days = [april;may;june;july;august];
 
