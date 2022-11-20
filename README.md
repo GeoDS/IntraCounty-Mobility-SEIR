@@ -46,8 +46,14 @@ Hou, X., Gao, S., Li, Q., Kang, Y., Chen, N., Chen, K., Rao, J., Ellenberg, J.S.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
 The COVID-19 pandemic is a global threat presenting health, economic and social challenges that continue to escalate. Meta-population epidemic modeling studies in the susceptible-exposed-infectious-removed (SEIR) style have played important roles in informing public health policy making to mitigate the spread of COVID-19. These models typically rely on a key assumption on the homogeneity of the population.  This assumption certainly cannot be expected to hold true in real situations; various geographic, socioeconomic and cultural environments affect the behaviors that drive the spread of COVID-19 in different communities. What's more, variation of intra-county environments creates spatial heterogeneity of transmission in different regions. To address this issue, we develop a new human mobility flow-augmented stochastic SEIR-style epidemic modeling framework with the ability to distinguish different regions and their corresponding behavior. This new modeling framework is then combined with data assimilation and machine learning techniques to reconstruct the historical growth trajectories of COVID-19 confirmed cases in two counties in Wisconsin. The associations between the spread of COVID-19 and business foot-traffic, race and ethnicity, and age are then investigated. The results reveal that in a college town (Dane County) the most important heterogeneity is age structure, while in a large city area (Milwaukee County) racial and ethnic heterogeneity becomes more apparent. Scenario studies further indicate a strong response of the spread rate on various reopening policies, which suggests that policymakers may need to take these heterogeneities into account very carefully when designing policies for mitigating the ongoing spread of COVID-19 and reopening. 
+
+<p align="center">
+    <img src="figures/figure1.jpg" alt="figure1" >
+</p>
+<p align="center">
+    <img src="figures/figure2.jpg" alt="figure2" >
+</p>
 
 <!--
 ## Folder Structure
