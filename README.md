@@ -54,6 +54,9 @@ The COVID-19 pandemic is a global threat presenting health, economic and social 
 <p align="center">
     <img src="figures/figure2.jpg" alt="figure2" >
 </p>
+<p align="center">
+    <img src="figures/within_btw_0625.jpg" alt="within_flow" >
+</p>
 
 <!--
 ## Folder Structure
